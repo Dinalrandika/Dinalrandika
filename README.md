@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at the School of Computing at the National Institute Of Business Management.
 
-- 📫 How to reach me **dinalrandika@icloud.com**
+- 📫 How to reach me **dinalrandika10104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
