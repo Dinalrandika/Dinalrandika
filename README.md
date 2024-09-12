@@ -2,7 +2,7 @@
 
 <br>
 
-- 📫 How to reach me **dinalrandika10104@gmail.com**
+- 📫 How to reach me **dinalrandika@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
