@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dinalrandika&show_icons=true&hide_border=true&theme=vue-dark" alt="Dinal's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinalrandika&layout=compact&hide_border=true&theme=vue-dark" alt="Top Languages" />
 </p>
----
+
 
 ### 🤝 Connect with Me
 
