@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="[https://dinalrandika.github.io" target="_blank">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"](https://img.shields.io/badge/Portfolio-Visit_Website-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white) />
+  </a>
   <a href="https://www.linkedin.com/in/dinal-randika-88038b219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
