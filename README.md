@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://dinalrandika.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-4FC3F7?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/dinal-randika-88038b219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -17,7 +20,7 @@
 
 ### About
 
-I build modern websites and software solutions with a strong focus on responsive design, clear user flows, performance, and maintainable implementation. My recent work includes Framer websites for restaurants, event planning, showroom and renovation businesses, landing pages for marketing campaigns, WordPress maintenance, and backend work with Node.js, Express, Spring Boot, and databases.
+I build modern websites and software solutions with a strong focus on responsive design, clear user flows, performance, and maintainable implementation. My recent work includes Framer websites for restaurants, event planning, and renovation services, along with backend development and custom integrations.
 
 ### Tech Stack
 
@@ -33,10 +36,10 @@ I build modern websites and software solutions with a strong focus on responsive
 | Project | Type | Highlights |
 | --- | --- | --- |
 | [Puteca Osteria](https://www.putecaosteria.com/) | Framer restaurant website | Responsive restaurant site with menu, booking CTAs, event requests, mobile navigation, and conversion-focused sections. |
-| [Osteria Around Tuscany](https://aroundtuscanyosteria.it/en/) | Framer restaurant website | Modern restaurant website with sections for story, chef, terrace, menu, reviews, events, weddings, bookings, and contact flows. |
-| [Ristorante Il Profeta Firenze](https://www.ristoranteilprofetafirenze.com/) | Framer restaurant website | Responsive restaurant website with digital menu structure, booking flow, WhatsApp/contact integration, and multilingual-ready structure. |
-| [Ilaria Piserchia](https://bewildered-line-651237.framer.app/) | Framer wedding and event planner website | In-development website with service pages, blog, testimonials, contact paths, and consultation-oriented CTAs. |
-| [Arrichiello](https://cherished-objects-140716.framer.app/) | Framer showroom and renovation website | In-development website for showroom, furniture, renovation services, brand presentation, service sections, and mobile-first navigation. |
+| [Osteria Around Tuscany](https://aroundtuscanyosteria.it/en/) | Framer restaurant website | Modern restaurant website with sections for story, chef, terrace, menu, reviews, events, weddings, and booking. |
+| [Ristorante Il Profeta Firenze](https://www.ristoranteilprofetafirenze.com/) | Framer restaurant website | Responsive restaurant website with digital menu structure, booking flow, WhatsApp/contact integration. |
+| [Ilaria Piserchia](https://bewildered-line-651237.framer.app/) | Framer wedding and event planner website | In-development website with service pages, blog, testimonials, contact paths, and consultation booking. |
+| [Arrichiello](https://cherished-objects-140716.framer.app/) | Framer showroom and renovation website | In-development website for showroom, furniture, renovation services, brand presentation, service overview. |
 | Wasisco landing pages | Marketing landing pages | Campaign pages with responsive layouts, lead forms, budget/service selection, WhatsApp redirect, and thank-you flows. |
 | WordPress restaurant maintenance | WordPress and CMS | Menu updates, Elementor/Divi edits, CSS customization, cache fixes, plugin support, mobile layout fixes, and contact form support. |
 | EV Charging Station | Hardware and software project | Internship project at OREL Corporation using Node.js, Express, MongoDB, and hardware/software integration support. |
@@ -61,5 +64,6 @@ I build modern websites and software solutions with a strong focus on responsive
 
 ### Contact
 
+- Portfolio: [dinalrandika.github.io](https://dinalrandika.github.io/)
 - LinkedIn: [linkedin.com/in/dinal-randika-88038b219](https://www.linkedin.com/in/dinal-randika-88038b219)
 - Email: [dinalrandika@icloud.com](mailto:dinalrandika@icloud.com)
